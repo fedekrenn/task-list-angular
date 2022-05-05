@@ -1,10 +1,10 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Prueba número 1",
-      "day": "Mayo 10 a las 15:00",
-      "reminder": true
+      "text": "Meme",
+      "day": "6/2 a las 11",
+      "reminder": true,
+      "id": 2
     }
   ]
 }
